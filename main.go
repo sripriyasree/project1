@@ -25,7 +25,7 @@ type User struct{
 func GetApi(c *gin.Context) {
  //   var posts User
 	 var userdetails = User{
-		Name:"Sripriya",
+		Name:"Sripriyaa",
 		Age:26,
 		Address:"ssss",
 	 }
