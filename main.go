@@ -31,5 +31,5 @@ func GetApi(c *gin.Context) {
 	 }
  
     c.JSON(http.StatusOK, gin.H{"data": userdetails})
-	fmt.Println("testing111")
+	fmt.Println("testing22")
 }
